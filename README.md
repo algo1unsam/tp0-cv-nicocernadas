@@ -2,7 +2,7 @@
 
 ![alt text](killua.jpg)
 
-## Presentacion
+## Presentación
 **Hola**!
 
 Mi nombre es ***Nicolas Cernadas***. 
@@ -12,5 +12,5 @@ Tengo 23 años y actualmente estoy cursando el segundo año de la carrera "Progr
 ## Lenguajes aprendidos hasta ahora
 *C/C++*, *Python*, *Assembler*, *HTML*, *CSS*
 
-### Listado de juegos favoritos
+## Listado de juegos favoritos
 Lastimosamente, el *"League of legends"* es el unico juego que me corre la Pc.
